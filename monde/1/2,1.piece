@@ -1,0 +1,18 @@
+description:
+Pourquoi avoir fermé cette porte ? Aviez vous peur de ce qu'il y a ici ? Non en fait vous aviez peur des autres... De leurs regards... Est-ce que vous vous aimez ?
+
+objet:
+munition : Un reste de votre passé... Peut-être est-il temps de mettre fin à cette existence de misère...
+END
+
+pnj:
+moi : je me hais... Pour vu que ça cesse...
+END
+
+eventobject:
+pistolet : munition : eventsuicide : description: Votre vieux compagnon, il semblerait qu'il vous appelle, mais il lui manque quelque chose pour qu'il vous réconforte... : (nonefound) : Peut-être qu'il lui faudrait quelque chose pour qu'il soit utile : (iffound) : Vous vous sentez las, vous mettez le pistolet contre votre tempe... Vous faites un compte à rebours dans votre tête... Votre doigt lentement appuyant sur la détente... Et soudain la gachette devient très lègere... upworld
+END
+
+conditionentre:
+eventouvertporte1
+END

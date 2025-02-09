@@ -1,0 +1,20 @@
+description:
+Vous êtes dans votre chambre... Vous avez l'impression d'être observé... Il fait humide, les murs en bois ne vous apportent aucune confiance. Est-ce vraiment ça la vie que l'on vous a promis ?
+
+objet:
+table : rien ne vous alarme la table est vieille et vous n'oseriez jamais manger dessus : 2
+lampe : elle vous éclaire le peu de vie que concentre ce monde... Peut-être que la prendre vous rechauferra le coeur... : 1
+tableau : la guerre a pris pour vous beaucoup, il serait temps pour vous de faire le deuil : 2
+lit : votre lit est vieux et pourri, les lattes sont craquées de toutes parts mais il semble vous convenir... Il serait peut-être temps pour vous de vous ressaisir... : 2
+END
+
+pnj:
+Jean : je ne sais que dire... c'est comme si le monde m'abandonnait...
+moi : je ne sais pas quoi faire, j'ai mal a la tête...
+END
+
+eventobject:
+porte : clé : eventouvertporte1 : description: c'est une vieille porte orientée vers le nord, elle semble pour temps résister à votre main. Mais où avez vous bien pu mettre cette fichu clé... Qu'avez vous caché... En avez vous peur ? : (nonefound) : je ne suis pas sur que c'était une bonne idée... : (iffound) : la porte s'ouvre dans un grincement sans nom 
+END
+
+

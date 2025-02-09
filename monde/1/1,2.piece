@@ -1,0 +1,19 @@
+description:
+Vous semblez être dans une pièce à manger mais tout est délabré... Que pensiez vous accomplir ? Est-ce de la douleur ? De la peine ?
+
+objet:
+sol : Le sol... Ou plutôt ce qu'il en reste... Les planches semblent vouloir se séparer de ce corps corrompu, cela fait combien de temps que vous n'avez reçu de la visite ? : 2
+chaise : Il n'y rien qui ne vous incite à vous assoir dessus... Mais avez vous simplement songé à les remplacer ? : 2
+tableau : Ils semblent vous percer à jour... Pourquoi vous infligez vous autant de peine... : 2
+télévision : S'il y a un objet qui vous donne espoir, ce dernier n'est pas ici... : 2
+clé : Une veille clé se tiens sur votre table... Mais vous avez oublié en quoi elle vous sera utile... : 1
+END
+
+pnj:
+banner : Bordel, il est déprimant ce jeu...
+moi : je crois que cela ne vaut pas la peine de vivre ainsi...
+END
+
+eventobject:
+END
+

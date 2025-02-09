@@ -1,0 +1,18 @@
+description:
+La rue est vide... Aucune porte ne vous semble accueillante... Les pavés sont froids... Les nuages dans le ciel semblent attendre le bon moment avant de déverser leurs haines...
+
+objet:
+pavé : Ils sont froid... : 2
+drap : Il semble que cela vous permettra de conserver le peu d'énergie qu'il vous reste pendant votre sommeil... : 1
+affiche : De la vieille propagande... La guerre vous a tant pris et pourtant... Il semble que cela vous manque : 2
+END
+
+pnj:
+inconnue1 : Que faites-vous là ? Ne voyez vous pas que je suis occupé...
+inconnue2 : Pffh allez vous en...
+moi : Je n'ai plus mal a la tête mais je suis las...
+END
+
+eventobject:
+lit : drap : fin : description: Il semble que son appelle est plus fort que votre envie de vivre... Même si vos cauchemars vous terrifient, ils vous semblent plus familiers que la vie que l'on vous force à mener : (nonefound) : Cela ne semble pas vous appartez confort... : (iffound) : Une fois de plus vous avez choisi la fuite...
+END

@@ -1,0 +1,15 @@
+le but principale de ce logiciel et de permettre la création rapide de jeu d'aventure textuelle
+cahier des charge :
+-création d'un programme qui peut générer d'autre programme python.
+-faire un programme qui peut générer des monde avec les description de chacune des pièces qui compose le monde.
+-permettre a l'utilisateur de mettre des personnages et des objets avec lequelle on peut intérragir.
+-création d'un sytème de quête primaire.
+-création d'un menu éditable dans le jeu créé.
+-avoir un dictionnaire avec tous les mot et interraction possible pour une action donné.
+-gestion d'un inventaire.
+-le produit fini doit pouvoir être lancer en python sans plus d'interraction avec l'utilisateur.
+-un système de sauvegarde qui prend en compte l'avancement du joueur et des ojet avec lequelle il a intéragit avec.
+-(optionnel) interface graphique sur le moteur de jeu et le jeu.
+-(optionnel) mettre en place un sytème de score et de quête secondaire.
+-(optionnel) si presence d'une interface graphique, mettre en place des images.
+-(optionnel) gestion de musique et d'effet sonnore.
